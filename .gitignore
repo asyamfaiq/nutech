@@ -17,6 +17,10 @@ temp/
 # PostgreSQL backup or dump
 *.sql
 *.dump
+# PostgreSQL backup or dump (umum)
+*.sql
+*.dump
+!database/*.sql
 
 # Editor & OS files
 .vscode/
