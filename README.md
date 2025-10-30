@@ -17,8 +17,9 @@ Fungsinya mencakup registrasi user, login, profil, banner, saldo, dan transaksi.
 ---
 
 ## ☁️ Deployment & DOC Postman
-Railway live API endpoint : https://nutech-production-ea9a.up.railway.app
-Postman : https://documenter.getpostman.com/view/20273551/2sB3Wnwgyd
+
+* Railway live API endpoint : https://nutech-production-ea9a.up.railway.app
+* Postman : https://documenter.getpostman.com/view/20273551/2sB3Wnwgyd
 
 ## 📘 Fitur Utama
 
