@@ -1,0 +1,41 @@
+# Node modules
+node_modules/
+
+# Environment files (DB credentials, JWT secrets, etc.)
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# Uploads / temporary user files
+uploads/
+public/uploads/
+temp/
+
+# PostgreSQL backup or dump
+*.sql
+*.dump
+
+# Editor & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# System cache / temporary runtime
+npm-debug.log*
+*.pid
+*.seed
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# PM2 or runtime logs
+pids/
+*.pid.lock
+
+# Railway or local environment metadata (if used)
+.railway/
